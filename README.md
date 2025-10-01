@@ -1,2 +1,2 @@
 # Tareas_uni
-esta es una actividad del tecmilenio 
+esta es una actividad del tecnologico
